@@ -1,0 +1,2 @@
+total_orders,total_revenue,total_profit,profit_margin_pct,avg_order_value,avg_shipping_delay_days,late_delivery_rate_pct,on_time_delivery_rate_pct,total_revenue_at_risk,weighted_revenue_at_risk,loss_orders,loss_order_rate_pct
+65752,36784735.01,3966902.97,10.78,203.77,0.57,54.83,45.17,20126395.27,22873934.25,33784,18.71
